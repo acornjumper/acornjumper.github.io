@@ -112,7 +112,7 @@ questions =  [
 {"id": 90, "question": "Different countries and cultures have different preferences for the type of government.", "effects": {"cx": 5}},
 {"id": 91, "question": "All countries should solve its internal issues before focusing on external issues.", "effects": {"cx": 5}},
 {"id": 92, "question": "Conflict should be avoided as much as possible.", "effects": {"cx": 5}},
-{"id": 93, "question": "Every society should determine its own path without outside pressure.", "effects": {"cx": 5}}
+{"id": 93, "question": "Every society should determine its own path without outside pressure.", "effects": {"cx": 5}},
 {"id": 94, "question": "What works politically in one culture may not work in another.", "effects": {"cx": 5}},
 {"id": 95, "question": "Respecting sovereignty is more important than spreading ideology.", "effects": {"cx": 5}},
 {"id": 96, "question": "Peaceful coexistence requires accepting cultural and political differences.", "effects": {"cx": 5}}
