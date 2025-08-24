@@ -172,21 +172,23 @@ questions =  [
 {"id": 136, "question": "We should avoid delaying political reform and change.", "effects": {"dy": -5}},
 {"id": 137, "question": "The existing system is too flawed to simply preserve with minor adjustments.", "effects": {"dy": -5}},
 {"id": 138, "question": "Large-scale change is necessary to address society’s problems.", "effects": {"dy": -5}},
+{"id": 139, "question": "Progress demands bold reforms, not cautious compromise.", "effects": {"dy": -5}},
 
- 
 //Technological Acceleration - Decelerate
-{"id": 88, "question": "Technology is negatively affecting modern society.", "effects": {"ex": -5}},
-{"id": 89, "question": "The Industrial Revolution and its consequences have been a disaster for the human race.", "effects": {"ex": -5}},
-{"id": 90, "question": "Usage of genetic modification for animals and plants should be minimized.", "effects": {"ex": -5}},
-{"id": 91, "question": "Modernity and social progress has led to a decrease of happiness, and often lacks meaning.", "effects": {"ex": -5}},
-{"id": 92, "question": "Society was better many years ago than it is today.", "effects": {"ex": -5}},
+{"id": 140, "question": "Technology is negatively affecting modern society.", "effects": {"ex": -5}},
+{"id": 141, "question": "The Industrial Revolution and its consequences have been a disaster for the human race.", "effects": {"ex": -5}},
+{"id": 142, "question": "Usage of genetic modification for animals and plants should be minimized.", "effects": {"ex": -5}},
+{"id": 143, "question": "We should be wary of relying too heavily on digital technology in daily life.", "effects": {"ex": -5}},
+{"id": 144, "question": "Modernity and social progress has led to a decrease of happiness, and often lacks meaning.", "effects": {"ex": -5}},
+{"id": 145, "question": "Biotechnology creates ethical dilemmas that outweigh its benefits.", "effects": {"ex": -5}},
+
 //Technological Acceleration - Accelerate
-{"id": 93, "question": "If artifical intellegence can rule better than humans, then they should rule.", "effects": {"ex": -5}},
-{"id": 94, "question": "Genetic modification of food can avoid effects from droughts and floods.", "effects": {"ex": -5}},
-{"id": 95, "question": "Automation is very beneficial for society.", "effects": {"ex": -5}},
-{"id": 96, "question": "Genetic modification of humans is beneficial.", "effects": {"ex": -5}},
-{"id": 97, "question": "Societal progress is heading in the right direction.", "effects": {"ex": -5}},
-{"id": 98, "question": "We should embrace modern technology rather than avoiding it.", "effects": {"ex": -5}},
+{"id": 145, "question": "If artifical intellegence can rule better than humans, then they should rule.", "effects": {"ex": 5}},
+{"id": 146, "question": "Genetic modification of food can avoid effects from droughts and floods.", "effects": {"ex": 5}},
+{"id": 147, "question": "Automation is one of the greatest tools for human progress.", "effects": {"ex": 5}},
+{"id": 148, "question": "Technology will reduce scarcity and poverty in the future.", "effects": {"ex": 5}},
+{"id": 149, "question": "Societal progress is heading in the right direction.", "effects": {"ex": 5}},
+{"id": 150, "question": "We should embrace modern technology rather than avoiding it.", "effects": {"ex": 5}},
 
 //Technological Transhumanism - Transhumanism
 {"id": 99, "question": "Getting past physical limitations through technology would be beneficial to mankind.", "effects": {"ey": 5}},
