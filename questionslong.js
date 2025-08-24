@@ -115,7 +115,7 @@ questions =  [
 {"id": 93, "question": "Every society should determine its own path without outside pressure.", "effects": {"cx": 5}},
 {"id": 94, "question": "What works politically in one culture may not work in another.", "effects": {"cx": 5}},
 {"id": 95, "question": "Respecting sovereignty is more important than spreading ideology.", "effects": {"cx": 5}},
-{"id": 96, "question": "Peaceful coexistence requires accepting cultural and political differences.", "effects": {"cx": 5}}
+{"id": 96, "question": "Peaceful coexistence requires accepting cultural and political differences.", "effects": {"cx": 5}},
 {"id": 97, "question": "No nation should impose its values on another.", "effects": {"cx": 5}},
 
 //Diplomatic Relations - Nationalism
@@ -155,8 +155,8 @@ questions =  [
 {"id": 123, "question": "I support the Black Lives Matter organization.", "effects": {"dx": -5}},
 {"id": 124, "question": "What society considers 'normal' is nothing more than a reflection of dominant cultural power.", "effects": {"dx": -5}},
 {"id": 125, "question": "Social hierarchies are maintained by tradition and must be dismantled.", "effects": {"dx": -5}},
-{"id": 126, "question": "We should celebrate plurality of truths rather than cling to a single 'traditional' worldview.", "effects": {"dx": -5}}
-{"id": 127, "question": "Gender is nothing more than a social construct.", "effects": {"dx": -5}}
+{"id": 126, "question": "We should celebrate plurality of truths rather than cling to a single 'traditional' worldview.", "effects": {"dx": -5}},
+{"id": 127, "question": "Gender is nothing more than a social construct.", "effects": {"dx": -5}},
 
 //Societal Change - Conserve
 {"id": 128, "question": "Rapid change often leads to the worsening of people's lives.", "effects": {"dy": 5}},
@@ -213,7 +213,7 @@ questions =  [
 //Law System - Common Law
 {"id": 167, "question": "Judges should have the freedom to interpret the law in light of unique circumstances.", "effects": {"fx": -5}},
 {"id": 168, "question": "Courts should adapt the law to new situations as they arise.", "effects": {"fx": -5}},
-{"id": 169, "question": "Society benefits when courts can evolve the law through gradual precedent.", "effects": {"fx": -5}}
+{"id": 169, "question": "Society benefits when courts can evolve the law through gradual precedent.", "effects": {"fx": -5}},
 {"id": 170, "question": "Unusual cases cannot be decided with written law.", "effects": {"fx": -5}},
 {"id": 171, "question": "Law evolves naturally through court decisions rather than rigid codes.", "effects": {"fx": -5}},
  
@@ -229,7 +229,7 @@ questions =  [
 {"id": 178, "question": "The goal of justice should be reintegration, not revenge.", "effects": {"fy": -5}},
 {"id": 179, "question": "Even serious offenders can often change their behavior for the better.", "effects": {"fy": -5}},
 {"id": 180, "question": "A criminal justice system should treat the causes of crime, not just the symptoms.", "effects": {"fy": -5}},
-{"id": 181, "question": "Prisons should offer therapy and counseling to offenders.", "effects": {"fy": -5}}
+{"id": 181, "question": "Prisons should offer therapy and counseling to offenders.", "effects": {"fy": -5}},
  
 //Cultural Hierarchy - Equality
 {"id": 182, "question": "A system of equal outcomes should be established.", "effects": {"gx": -5}},
@@ -298,7 +298,7 @@ questions =  [
 {"id": 228, "question": "Being self-sufficient (as a person) is a positive trait.", "effects": {"ja": 5}},
 {"id": 229, "question": "No individual can truly succeed without the support of their society.", "effects": {"ja": -5}},
 {"id": 230, "question": "Individual rights should take priority over collective responsibilities.", "effects": {"ja": 5}},
-{"id": 231, "question": "Personal ambition is the driving force of human progress.", "effects": {"ja": 5}}
+{"id": 231, "question": "Personal ambition is the driving force of human progress.", "effects": {"ja": 5}},
 {"id": 232, "question": "People should be free to live howe they choose, regardless of what society prefers.", "effects": {"ja": 5}},
 
 //Revolution
@@ -307,7 +307,7 @@ questions =  [
 {"id": 235, "question": "Pacifism is generally unrealistic when protesting a government.", "effects": {"jb": -5}},
 {"id": 236, "question": "Revolution often causes more harm than good.", "effects": {"jb": 5}},
 {"id": 237, "question": "Revolution often causes more harm than good.", "effects": {"jb": 5}},
-{"id": 238, "question": "Violent resistance is justified when the government oppresses its people.", "effects": {"jb": -5}}
+{"id": 238, "question": "Violent resistance is justified when the government oppresses its people.", "effects": {"jb": -5}},
 
 //Idealism
 {"id": 239, "question": "Idealists are mostly unrealistic.", "effects": {"jc": 5}},
@@ -323,7 +323,7 @@ questions =  [
 {"id": 247, "question": "Deontology and consequences should both matter when judging morality.", "effects": {"jd": 0}},
 {"id": 248, "question": "The ends justify the means.", "effects": {"jd": 5}},
 {"id": 249, "question": "Rules and duties are more reliable than predictions about outcomes, as humans are not omniscent.", "effects": {"jd": -5}},
-{"id": 250, "question": "Ethical decisions require balancing principles with practical results.", "effects": {"jd": 0}}
+{"id": 250, "question": "Ethical decisions require balancing principles with practical results.", "effects": {"jd": 0}},
 {"id": 251, "question": "Moral rules exist independently of their consequences.", "effects": {"jd": -5}},
 {"id": 252, "question": "An action should usually be seen as right or wrong through a set of rules and principles.", "effects": {"jd": -5}},
 {"id": 253, "question": "We should judge an action based entirely on its consequences.", "effects": {"jd": 5}},
