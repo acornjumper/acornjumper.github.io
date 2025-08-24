@@ -112,10 +112,10 @@ questions =  [
 {"id": 90, "question": "Different countries and cultures have different preferences for the type of government.", "effects": {"cx": 5}},
 {"id": 91, "question": "All countries should solve its internal issues before focusing on external issues.", "effects": {"cx": 5}},
 {"id": 92, "question": "Conflict should be avoided as much as possible.", "effects": {"cx": 5}},
-{"id": 93, "question": "Every society should determine its own path without outside pressure.", "effects": {"cx": 5}},
+{"id": 93, "question": "Every society should determine its own path without outside pressure.", "effects": {"cx": 5}}
 {"id": 94, "question": "What works politically in one culture may not work in another.", "effects": {"cx": 5}},
 {"id": 95, "question": "Respecting sovereignty is more important than spreading ideology.", "effects": {"cx": 5}},
-{"id": 96, "question": "Peaceful coexistence requires accepting cultural and political differences.", "effects": {"cx": 5}},
+{"id": 96, "question": "Peaceful coexistence requires accepting cultural and political differences.", "effects": {"cx": 5}}
 {"id": 97, "question": "No nation should impose its values on another.", "effects": {"cx": 5}},
 
 //Diplomatic Relations - Nationalism
@@ -207,13 +207,13 @@ questions =  [
 {"id": 162, "question": "Law principles should be codified into a referable system.", "effects": {"fx": 5}},
 {"id": 163, "question": "A consistent written code of law is the best way to ensure fairness.", "effects": {"fx": 5}},
 {"id": 164, "question": "Society is best served when laws are clear, codified, and predictable.", "effects": {"fx": 5}},
-{"id": 165, "question": "Citizens should be able to refer to a comprehensive code to understand their rights and duties.", "effects": {"fx": 5"}},
+{"id": 165, "question": "Citizens should be able to refer to a comprehensive code to understand their rights and duties.", "effects": {"fx": 5}},
 {"id": 166, "question": "Judges should primarily apply the law as written, not reinterpret it.", "effects": {"fx": 5}},
  
 //Law System - Common Law
 {"id": 167, "question": "Judges should have the freedom to interpret the law in light of unique circumstances.", "effects": {"fx": -5}},
 {"id": 168, "question": "Courts should adapt the law to new situations as they arise.", "effects": {"fx": -5}},
-{"id": 169, "question": "Society benefits when courts can evolve the law through gradual precedent.", "effects": {"fx": -5"}}
+{"id": 169, "question": "Society benefits when courts can evolve the law through gradual precedent.", "effects": {"fx": -5}}
 {"id": 170, "question": "Unusual cases cannot be decided with written law.", "effects": {"fx": -5}},
 {"id": 171, "question": "Law evolves naturally through court decisions rather than rigid codes.", "effects": {"fx": -5}},
  
@@ -229,12 +229,12 @@ questions =  [
 {"id": 178, "question": "The goal of justice should be reintegration, not revenge.", "effects": {"fy": -5}},
 {"id": 179, "question": "Even serious offenders can often change their behavior for the better.", "effects": {"fy": -5}},
 {"id": 180, "question": "A criminal justice system should treat the causes of crime, not just the symptoms.", "effects": {"fy": -5}},
-{"id": 181, "question": "Prisons should offer therapy and counseling to offenders.", "effects": {"fy": -5"}}
+{"id": 181, "question": "Prisons should offer therapy and counseling to offenders.", "effects": {"fy": -5}}
  
 //Cultural Hierarchy - Equality
 {"id": 182, "question": "A system of equal outcomes should be established.", "effects": {"gx": -5}},
 {"id": 183, "question": "People should be treated equally regardless of their groups and characteristics.", "effects": {"gx": -5}},
-{"id": 184, "question": "Policies should be designed to reduce social inequality.", "effects": {"gx": -5"}},
+{"id": 184, "question": "Policies should be designed to reduce social inequality.", "effects": {"gx": -5}},
 {"id": 185, "question": "I support legislation supporting the disparate impact standard.", "effects": {"gx": -5}},
 {"id": 186, "question": "I support DEI.", "effects": {"gx": -5}},
 {"id": 187, "question": "If a group's representation is disproportionate to their population, it implies discrimination.", "effects": {"gx": -5}},
@@ -242,7 +242,7 @@ questions =  [
 //Cultural Hierarchy - Hierarchy
 {"id": 189, "question": "Equality of outcome is impossible.", "effects": {"gx": -5}},
 {"id": 190, "question": "Hierarchies are a fundamental axiom of interaction. They will inevitably be formed in every society, at any time.", "effects": {"gx": -5}},
-{"id": 191, "question": "Social ranking is an unavoidable outcome of praxeology, since individuals value some contributions more than others.", "effects": {"gx": 5"}},
+{"id": 191, "question": "Social ranking is an unavoidable outcome of praxeology, since individuals value some contributions more than others.", "effects": {"gx": 5}},
 {"id": 192, "question": "Any well-functioning society requries a hierarchy.", "effects": {"gx": -5}},
 {"id": 193, "question": "Human inequality in skill and knowledge guarantees unequal influence, which in practice creates hierarchy.", "effects": {"gx": 5}},
 
