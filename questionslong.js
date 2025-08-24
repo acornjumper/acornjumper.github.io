@@ -240,62 +240,93 @@ questions =  [
 {"id": 187, "question": "If a group's representation is disproportionate to their population, it implies discrimination.", "effects": {"gx": -5}},
 
 //Cultural Hierarchy - Hierarchy
-{"id": 118, "question": "Equality of outcome is impossible.", "effects": {"gx": -5}},
-{"id": 119, "question": "Hierarchies are a fundamental axiom of interaction. They will inevitably be formed in every society, at any time.", "effects": {"gx": -5}},
-{"id": 448, "question": "Social ranking is an unavoidable outcome of praxeology, since individuals value some contributions more than others.", "effects": {"gx": 5"}},
-{"id": 120, "question": "Any well-functioning society requries a hierarchy.", "effects": {"gx": -5}},
+{"id": 189, "question": "Equality of outcome is impossible.", "effects": {"gx": -5}},
+{"id": 190, "question": "Hierarchies are a fundamental axiom of interaction. They will inevitably be formed in every society, at any time.", "effects": {"gx": -5}},
+{"id": 191, "question": "Social ranking is an unavoidable outcome of praxeology, since individuals value some contributions more than others.", "effects": {"gx": 5"}},
+{"id": 192, "question": "Any well-functioning society requries a hierarchy.", "effects": {"gx": -5}},
+{"id": 193, "question": "Human inequality in skill and knowledge guarantees unequal influence, which in practice creates hierarchy.", "effects": {"gx": 5}},
 
 //Cultural Assimilation - Monocultural
-{"id": 121, "question": "If we accept migrants into our borders, the migrants should be expected to assimilate into our culture.", "effects": {"gy": 5}},
-{"id": 122, "question": "Multiculturalism is unrealistic.", "effects": {"gy": 5}},
-{"id": 123, "question": "Some cultures are inherently suprerior to other cultures.", "effects": {"gy": 5}},
-//Cultural Assimilation - Multicultural
-{"id": 124, "question": "My nation should be more diverse.", "effects": {"gy": -5}},
-{"id": 125, "question": "Monoculturalism is disastrous for society.", "effects": {"gy": -5}},
-{"id": 126, "question": "Race and ethnicity should be unimportant for everyone.", "effects": {"gy": -5}},
+{"id": 194, "question": "If we accept migrants into our borders, the migrants should be expected to assimilate into our culture.", "effects": {"gy": 5}},
+{"id": 196, "question": "Multiculturalism has had disastrous consequences.", "effects": {"gy": 5}},
+{"id": 197, "question": "A society without a shared culture will eventually face conflict and division.", "effects": {"gy": 5}},
+{"id": 198, "question": "Feminist thought and Islam are examples of how some cultures are logically incompatible.", "effects": {"gy": 5}},
+{"id": 199, "question": "Immigrants should adapt to the host nation's customs rather than expecting the nation to adapt to them.", "effects": {"gy": 5}},
 
+//Cultural Assimilation - Multicultural
+{"id": 200, "question": "My nation should be more diverse.", "effects": {"gy": -5}},
+{"id": 201, "question": "Monoculturalism is disastrous for society.", "effects": {"gy": -5}},
+{"id": 202, "question": "There is no single 'correct' national culture to which people must conform.", "effects": {"gy": -5}},
+{"id": 203, "question": "Cultural assimilation erases valuable traditions and identities.", "effects": {"gy": -5}},
+{"id": 204, "question": "Society benefits when different cultural groups coexist on equal terms.", "effects": {"gy": -5}},
+ 
 //Procedural Compromize - Compromize 
-{"id": 127, "question": "Compromises should be made in order to suit the needs of most people.", "effects": {"hx": -5}},
-{"id": 128, "question": "Compromizing can avoid unnecessary conflict.", "effects": {"hx": -5}},
-{"id": 129, "question": "Adopting radical ideas isn't possible unless compromizes are made.", "effects": {"hx": -5}},
+{"id": 205, "question": "Compromises should be made in order to suit the needs of most people.", "effects": {"hx": -5}},
+{"id": 206, "question": "Compromizing can avoid unnecessary conflict.", "effects": {"hx": -5}},
+{"id": 207, "question": "Adopting radical ideas isn't possible unless compromizes are made.", "effects": {"hx": -5}},
+{"id": 208, "question": "Finding middle ground helps to unite a divided society.", "effects": {"hx": -5}},
 
 //Procedural Transition - Transitional
-{"id": 130, "question": "A transitional state should be made.", "effects": {"hy": 5}},
+{"id": 209, "question": "A transitional state should be made.", "effects": {"hy": 5}},
+{"id": 210, "question": "Large reforms should be phased in gradually to prevent chaos.", "effects": {"hy": 5}},
 //Procedural Transition - Direct
-{"id": 131, "question": "My ideology should be established as quick as possible.", "effects": {"hy": -5}},
-{"id": 132, "question": "My political ideals can be acheived within 10 years.", "effects": {"hy": -5}},
+{"id": 211, "question": "My ideology should be established as quick as possible.", "effects": {"hy": -5}},
+{"id": 212, "question": "My political ideals can be acheived by fully replacing the current system within a 10 year period.", "effects": {"hy": -5}},
   
 //Political Extremism - Radical
-{"id": 133, "question": "My ideology is sometimes considered 'extreme'.", "effects": {"ix": 5}},
-{"id": 134, "question": "Violence and Revolutions are required in order to establish my ideology.", "effects": {"ix": 5}},
-{"id": 135, "question": "The current mainstream societal attitudes are problematic.", "effects": {"ix": 5}},
-{"id": 136, "question": "My political views are very different from the current status quo.", "effects": {"ix": 5}},
+{"id": 213, "question": "My ideology is sometimes considered 'extreme'.", "effects": {"ix": 5}},
+{"id": 214, "question": "The current mainstream societal attitudes are problematic.", "effects": {"ix": 5}},
+{"id": 215, "question": "Compromise with the status quo only reinforces oppression.", "effects": {"ix": 5}},
+{"id": 216, "question": "My political views are very different from the current status quo.", "effects": {"ix": 5}},
 
 //Political Engagement - Apolitical
-{"id": 137, "question": "Politics is boring to me.", "effects": {"iy": -5}},
-{"id": 138, "question": "Nearly all politicians are evil and problematic, no matter what their political ideals are.", "effects": {"iy": -5}},
-{"id": 139, "question": "Politics should be avoided in daily life.", "effects": {"iy": -5}},
+{"id": 217, "question": "Politics is boring to me.", "effects": {"iy": -5}},
+{"id": 218, "question": "Nearly all politicians are evil and problematic, no matter what their political ideals are.", "effects": {"iy": -5}},
+{"id": 219, "question": "Politics should be avoided in daily life.", "effects": {"iy": -5}},
+{"id": 220, "question": "I rarely, if ever, discuss politics with others.", "effects": {"iy": -5}},
+
 //Political Engagement - Politicized
-{"id": 140, "question": "Politics is very important for society, and shouldn't be ignored.", "effects": {"iy": 5}},
-  
+{"id": 221, "question": "Politics is very important for society, and shouldn't be ignored.", "effects": {"iy": 5}},
+{"id": 222, "question": "Everyday choices, such as what we buy or how we work, are inherently political.", "effects": {"iy": 5}},
+{"id": 223, "question": "Political change depends on people actively participating.", "effects": {"iy": 5}},
+{"id": 224, "question": "Being aware of political issues is essential to being a responsible citizen.", "effects": {"iy": 5}},
+ 
 //Collectivization
-{"id": 141, "question": "Most things can only be accomplished through a group.", "effects": {"ja": -5}},
-{"id": 142, "question": "If the current career system is being used, a person's personal and work life should stay seperate.", "effects": {"ja": 5}},
-{"id": 143, "question": "Being self-sufficient (as a person) is a positive trait.", "effects": {"ja": 5}},
-  
+{"id": 225, "question": "Most things can only be accomplished through a group.", "effects": {"ja": -5}},
+{"id": 226, "question": "If the current career system is being used, a person's personal and work life should stay seperate.", "effects": {"ja": 5}},
+{"id": 227, "question": "The needs of the community are more important than the desires of the individual.", "effects": {"ja": -5}},
+{"id": 228, "question": "Being self-sufficient (as a person) is a positive trait.", "effects": {"ja": 5}},
+{"id": 229, "question": "No individual can truly succeed without the support of their society.", "effects": {"ja": -5}},
+{"id": 230, "question": "Individual rights should take priority over collective responsibilities.", "effects": {"ja": 5}},
+{"id": 231, "question": "Personal ambition is the driving force of human progress.", "effects": {"ja": 5}}
+{"id": 232, "question": "People should be free to live howe they choose, regardless of what society prefers.", "effects": {"ja": 5}},
+
 //Revolution
-{"id": 144, "question": "Changing the status quo using violent methods is mostly unhelpful.", "effects": {"jb": 5}},
-{"id": 145, "question": "Pacifism is generally unrealistic when protesting a government.", "effects": {"jb": -5}},
-  
+{"id": 233, "question": "Changing the status quo using violent methods is mostly unhelpful.", "effects": {"jb": 5}},
+{"id": 234, "question": "Revolution often causes more harm than good.", "effects": {"jb": 5}},
+{"id": 235, "question": "Pacifism is generally unrealistic when protesting a government.", "effects": {"jb": -5}},
+{"id": 236, "question": "Revolution often causes more harm than good.", "effects": {"jb": 5}},
+{"id": 237, "question": "Revolution often causes more harm than good.", "effects": {"jb": 5}},
+{"id": 238, "question": "Violent resistance is justified when the government oppresses its people.", "effects": {"jb": -5}}
+
 //Idealism
-{"id": 146, "question": "Idealists are mostly unrealistic.", "effects": {"jc": 5}},
-{"id": 147, "question": "We should not ignore ideologies that seem radical, but has a chance of success.", "effects": {"jc": -5}},
-{"id": 148, "question": "We should be more optimistic towards a variety of different ideas.", "effects": {"jc": -5}},
+{"id": 239, "question": "Idealists are mostly unrealistic.", "effects": {"jc": 5}},
+{"id": 240, "question": "We should not ignore ideologies that seem radical, but has a chance of success.", "effects": {"jc": -5}},
+{"id": 241, "question": "Political visions should be judged mainly by their practicality.", "effects": {"jc": 5}},
+{"id": 242, "question": "We should be more optimistic towards a variety of different ideas.", "effects": {"jc": -5}},
+{"id": 243, "question": "A bold vision for the future is necessary for real progress.", "effects": {"jc": -5}},
+{"id": 244, "question": "People who dream too big usually ignore the limits of human nature.", "effects": {"jc": 5}},
 
 //Consequence
-{"id": 149, "question": "An eye for eye and a tooth for tooth.", "effects": {"jd": 5}},
-{"id": 150, "question": "We should judge an action based on its consequences.", "effects": {"jd": 5}},
-{"id": 151, "question": "An action should be seen as right or wrong through a set of rules and principles.", "effects": {"jd": -5}},
-{"id": 155, "question": "Intention is more important than consequence when judging an action.", "effects": {"jd": -5}},
+{"id": 245, "question": "An eye for eye and a tooth for tooth.", "effects": {"jd": 5}},
+{"id": 246, "question": "If an action leads to the greatest good for the greatest number, it is justified no matter how it is achieved.", "effects": {"jd": 5}},
+{"id": 247, "question": "Deontology and consequences should both matter when judging morality.", "effects": {"jd": 0}},
+{"id": 248, "question": "The ends justify the means.", "effects": {"jd": 5}},
+{"id": 249, "question": "Rules and duties are more reliable than predictions about outcomes, as humans are not omniscent.", "effects": {"jd": -5}},
+{"id": 250, "question": "Ethical decisions require balancing principles with practical results.", "effects": {"jd": 0}}
+{"id": 251, "question": "Moral rules exist independently of their consequences.", "effects": {"jd": -5}},
+{"id": 252, "question": "An action should usually be seen as right or wrong through a set of rules and principles.", "effects": {"jd": -5}},
+{"id": 253, "question": "We should judge an action based entirely on its consequences.", "effects": {"jd": 5}},
+{"id": 254, "question": "There are universal moral laws that can be used to judge an action.", "effects": {"jd": -5}},
   
 ];
