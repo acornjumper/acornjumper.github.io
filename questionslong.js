@@ -191,37 +191,58 @@ questions =  [
 {"id": 150, "question": "We should embrace modern technology rather than avoiding it.", "effects": {"ex": 5}},
 
 //Technological Transhumanism - Transhumanism
-{"id": 99, "question": "Getting past physical limitations through technology would be beneficial to mankind.", "effects": {"ey": 5}},
-{"id": 100, "question": "Transhumanism will be inevitable in the near future, in most nations.", "effects": {"ey": 5}},
-{"id": 101, "question": "People are overly worrying about physical human modifications nowadays.", "effects": {"ey": 5}},
+{"id": 151, "question": "Getting past physical limitations through technology would be beneficial to mankind.", "effects": {"ey": 5}},
+{"id": 152, "question": "Transhumanism will be inevitable in the near future, in most nations.", "effects": {"ey": 5}},
+{"id": 153, "question": "Medical devices like pacemakers and hearing aids show how technology can improve everyday life.", "effects": {"ey": 5}},
+{"id": 154, "question": "People are overly worrying about physical human modifications nowadays.", "effects": {"ey": 5}},
+{"id": 155, "question": "Technology that enhances health and well-being should be embraced.", "effects": {"ey": 5}},
 //Technological Transhumanism - Primitivism
-{"id": 102, "question": "Technology that improves mental and physical capabilities shouldn't be used, in any political system.", "effects": {"ey": -5}},
-{"id": 103, "question": "The risks of transhumanism overweighs the benefits.", "effects": {"ey": -5}},
-{"id": 104, "question": "Transhumanism is not required in any country within the next 50 years.", "effects": {"ey": -5}},
+{"id": 157, "question": "The risks of transhumanism overweighs the benefits.", "effects": {"ey": -5}},
+{"id": 158, "question": "Technological interference in the human body diminishes our humanity.", "effects": {"ey": -5}},
+{"id": 159, "question": "Transhumanism is not required in any country within the next 50 years.", "effects": {"ey": -5}},
+{"id": 160, "question": "Human beings should accept their natural limitations rather than rely on enhancements.", "effects": {"ey": -5}},
+{"id": 161, "question": "Enhancing intelligence or strength through implants or drugs is unnatural and harmful to human dignity.", "effects": {"ey": -5}},
 
 //Law System - Civil Law
-{"id": 105, "question": "Law principles should be codified into a referable system.", "effects": {"fx": 5}},
-{"id": 106, "question": "If a law system exists, lawmakers and legal experts should hold more influence than judges.", "effects": {"fx": 5}},
+{"id": 162, "question": "Law principles should be codified into a referable system.", "effects": {"fx": 5}},
+{"id": 163, "question": "A consistent written code of law is the best way to ensure fairness.", "effects": {"fx": 5}},
+{"id": 164, "question": "Society is best served when laws are clear, codified, and predictable.", "effects": {"fx": 5}},
+{"id": 165, "question": "Citizens should be able to refer to a comprehensive code to understand their rights and duties.", "effects": {"fx": 5"}},
+{"id": 166, "question": "Judges should primarily apply the law as written, not reinterpret it.", "effects": {"fx": 5}},
+ 
 //Law System - Common Law
-{"id": 107, "question": "Courts should reference to other judicial decisions.", "effects": {"fx": -5}},
-{"id": 108, "question": "If judges and legislators exist, judges should hold more power than legislators.", "effects": {"fx": -5}},
-{"id": 109, "question": "If a decision cannot be made in courts, relevant cases in the past should be referenced.", "effects": {"fx": -5}},
-{"id": 110, "question": "Unusual cases cannot be decided with written law.", "effects": {"fx": -5}},
-
+{"id": 167, "question": "Judges should have the freedom to interpret the law in light of unique circumstances.", "effects": {"fx": -5}},
+{"id": 168, "question": "Courts should adapt the law to new situations as they arise.", "effects": {"fx": -5}},
+{"id": 169, "question": "Society benefits when courts can evolve the law through gradual precedent.", "effects": {"fx": -5"}}
+{"id": 170, "question": "Unusual cases cannot be decided with written law.", "effects": {"fx": -5}},
+{"id": 171, "question": "Law evolves naturally through court decisions rather than rigid codes.", "effects": {"fx": -5}},
+ 
 //Law Focus - Punitive
-{"id": 111, "question": "A rehabilitative system is unjust.", "effects": {"fy": 5}},
-{"id": 112, "question": "Punishment should be valued, more than that of rehabilitation.", "effects": {"fy": 5}},
-{"id": 113, "question": "It's a waste of time trying to rehabilitate some criminals.", "effects": {"fy": 5}},
-{"id": 114, "question": "I support capital punishment.", "effects": {"fy": 5}},
-//Law Focus - Rehabilitive
-{"id": 115, "question": "Everybody deserves a second chance.", "effects": {"fy": -5}},
+{"id": 172, "question": "A rehabilitative system is unjust.", "effects": {"fy": 5}},
+{"id": 173, "question": "Justice requires that criminals suffer consequences equal to their crimes.", "effects": {"fy": 5}},
+{"id": 174, "question": "Punishment should be valued, more than that of rehabilitation.", "effects": {"fy": 5}},
+{"id": 175, "question": "It's a waste of time trying to rehabilitate some criminals.", "effects": {"fy": 5}},
+{"id": 176, "question": "Some crimes deserve punishment regardless of whether the offender can change.", "effects": {"fy": 5}},
 
+ //Law Focus - Rehabilitive
+{"id": 177, "question": "Everybody deserves a second chance.", "effects": {"fy": -5}},
+{"id": 178, "question": "The goal of justice should be reintegration, not revenge.", "effects": {"fy": -5}},
+{"id": 179, "question": "Even serious offenders can often change their behavior for the better.", "effects": {"fy": -5}},
+{"id": 180, "question": "A criminal justice system should treat the causes of crime, not just the symptoms.", "effects": {"fy": -5}},
+{"id": 181, "question": "Prisons should offer therapy and counseling to offenders.", "effects": {"fy": -5"}}
+ 
 //Cultural Hierarchy - Equality
-{"id": 116, "question": "A system of equal outcomes should be established.", "effects": {"gx": -5}},
-{"id": 117, "question": "People should be treated equally regardless of their groups and characteristics.", "effects": {"gx": -5}},
+{"id": 182, "question": "A system of equal outcomes should be established.", "effects": {"gx": -5}},
+{"id": 183, "question": "People should be treated equally regardless of their groups and characteristics.", "effects": {"gx": -5}},
+{"id": 184, "question": "Policies should be designed to reduce social inequality.", "effects": {"gx": -5"}},
+{"id": 185, "question": "I support legislation supporting the disparate impact standard.", "effects": {"gx": -5}},
+{"id": 186, "question": "I support DEI.", "effects": {"gx": -5}},
+{"id": 187, "question": "If a group's representation is disproportionate to their population, it implies discrimination.", "effects": {"gx": -5}},
+
 //Cultural Hierarchy - Hierarchy
-{"id": 118, "question": "Even though equal opportunities can lead to equal outcomes, society should still focus on equal opportunities, and not equal outcomes.", "effects": {"gx": -5}},
-{"id": 119, "question": "Hierarchies will inevitably be formed in every society, at any time.", "effects": {"gx": -5}},
+{"id": 118, "question": "Equality of outcome is impossible.", "effects": {"gx": -5}},
+{"id": 119, "question": "Hierarchies are a fundamental axiom of interaction. They will inevitably be formed in every society, at any time.", "effects": {"gx": -5}},
+{"id": 448, "question": "Social ranking is an unavoidable outcome of praxeology, since individuals value some contributions more than others.", "effects": {"gx": 5"}},
 {"id": 120, "question": "Any well-functioning society requries a hierarchy.", "effects": {"gx": -5}},
 
 //Cultural Assimilation - Monocultural
