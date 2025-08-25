@@ -30,6 +30,8 @@ li {
 p.value-description {
     text-indent: -16pt;
     margin-left: 20pt;
+    margin-top: 10px;
+    margin-bottom: 10px;
 }
 label {
     color: #ffffff;
