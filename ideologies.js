@@ -116,7 +116,7 @@ ideologies = [
 	{
         "name": "Nazism",
 	    	"link": "https://en.wikipedia.org/wiki/Nazism",
-		"desc": "Italitan fascism is a form of auNazism is a form of fascism, with disdain for liberal democracy and the parliamentary system. It incorporates anti-communism, authoritarian ultranationalism, and ethnonationalism.",
+		"desc": "Nazism, or National Socialism, is a form of fascism practiced in Germany between 1933 and 1945. It incorporates anti-communism, authoritarian ultranationalism, social darwinism, and ethnonationalism.",
 		"next": "Italian Fascism, State Capitalism, National Bolshevism",
         "stats": {
 	  "econ": -1,
@@ -145,7 +145,7 @@ ideologies = [
         "name": "National Bolshevism",
 	    	"link": "https://en.wikipedia.org/wiki/National_Bolshevism",
 		"desc": "National Bolshevism is a political movement that combines elements of Fascism and Bolshevism. National Bolshevism supports cultural policies of Fascism, as well as the economic policies of Bolshevism and Marxism-Leninism.",
-		"next": "Italian Fascism, State Capitalism, National Bolshevism",
+		"next": "Italian Fascism, State Capitalism, Stalinism",
         "stats": {
 	  "econ": -8,
 	  "govt": 10,
@@ -257,7 +257,7 @@ ideologies = [
         "name": "State Socialism",
 	    	"link": "https://en.wikipedia.org/wiki/State_socialism",
 		"desc": "State Socialism advocates state ownership of the means of production, either as a temporary measure or as a characteristic of socialism in the transition from the capitalist to the socialist mode of production or communist society.",
-		"next": "Leninism, State Capitalism, Stalinism",
+		"next": "Leninism, State Capitalism, Stalinism, Dengism, Titoism",
         "stats": {
 	  "econ": -5,
 	  "govt": 8,
@@ -763,7 +763,7 @@ ideologies = [
         "name": "Paleoconservatism",
 	    	"link": "https://en.wikipedia.org/wiki/Paleoconservatism",
 		"desc": "Paleoconservatism is a political philosophy and variety of conservatism which advocates the preservation of tradition and Right-Wing populism.",
-		"next": "Fiscal Conservatism, Neo-Conservatism, Paleoconservatism",
+		"next": "Fiscal Conservatism, Neo-Conservatism",
         "stats": {
 	  "econ": 6,
 	  "govt": 3,
@@ -819,7 +819,7 @@ ideologies = [
 	{
         "name": "Anarcho-Syndicalism",
 	    	"link": "https://en.wikipedia.org/wiki/Anarcho-syndicalism",
-		"desc": "Anarcho-Syndicalism views revolutionary industrial unionism as a method for workers in capitalist society to gain control of an economy and thus control influence in broader society, in order to asbolish the wage system.",
+		"desc": "Anarcho-Syndicalism views revolutionary industrial unionism as a method for workers in capitalist society to gain control of an economy and thus control influence in broader society, in order to abolish the wage system.",
 		"next": "Anarcho-Communism, Anarcho-Collectivism, Anarchism, Libertarian Socialism",
         "stats": {
 	  "econ": -8,
@@ -988,7 +988,7 @@ ideologies = [
         "name": "Social Democracy",
 	    	"link": "https://en.wikipedia.org/wiki/Social_democracy",
 		"desc": "Social Democracy supports political and economic democracy, and advocates strong welfare and higher taxation, especially for the wealthy.",
-		"next": "Libertarian Socialism, Social Democracy",
+		"next": "Libertarian Socialism, Democratic Socialism, Progressivism, Eurocommunism",
         "stats": {
 	  "econ": -2,
 	  "govt": -1,
@@ -1028,7 +1028,7 @@ ideologies = [
           "diplrel": 0,
           "sctychg": -7,
           "sctytrad": -7,
-          "techacc": -5,
+          "techacc": 6,
           "techbio": 0,
           "lawtype": 0,
           "lawrehab": 0,
@@ -1079,7 +1079,7 @@ ideologies = [
 	  "govt": -9,
 	  "econsys": -2,
 	  "econreg": 0,
-          "govtsize": 0,
+          "govtsize": -9,
           "govttype": 0,
           "diplapp": 0,
           "diplrel": 0,
@@ -1163,7 +1163,7 @@ ideologies = [
 	  "govt": -5,
 	  "econsys": -5,
 	  "econreg": -8,
-          "govtsize": -1,
+          "govtsize": -7,
           "govttype": 0,
           "diplapp": 0,
           "diplrel": 0,
@@ -1226,7 +1226,7 @@ ideologies = [
           "diplrel": 0,
           "sctychg": -5,
           "sctytrad": 0,
-          "techacc": -8,
+          "techacc": 8,
           "techbio": 0,
           "lawtype": 0,
           "lawrehab": 0,
@@ -1382,7 +1382,7 @@ ideologies = [
         "name": "Anarcho-Individualism",
 	    	"link": "https://en.wikipedia.org/wiki/Anarcho-individualism",
 		"desc": "Anarcho-individualism is a form of anarchy that emphasizes the individual and their will over external determinants such as groups, society, traditions, and ideological systems.",
-		"next": "Hoppeanism, Pink Capitalism, Minarchism, Anarcho-Capitalism",
+		"next": "Egoist Anarchism, Agorism, Voluntaryism, Anarcho-Capitalism",
         "stats": {
 	  "econ": 5,
 	  "govt": -10,
@@ -1408,9 +1408,9 @@ ideologies = [
     },
 	{
         "name": "Minarchism",
-	    	"link": "https://en.wikipedia.org/wiki/Libertarianism",
+	    	"link": "https://en.wikipedia.org/wiki/Night-watchman_state",
 		"desc": "Minarchism advocates a state that is limited and minimal, whose only functions are to act as an enforcer of the non-aggression principle by providing its citizens with the military, the police and courts, thereby protecting them from aggression, theft, breach of contract, fraud and enforcing property laws.",
-		"next": "Paleolibertarianism, Green Libertarianism, Minarchism, Classical Liberalism",
+		"next": " Paleolibertarianism, Anarcho-Capitalism, Hoppeanism, Pink Capitalism",
         "stats": {
 	  "econ": 8,
 	  "govt": -7,
