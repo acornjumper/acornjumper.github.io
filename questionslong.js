@@ -2,14 +2,14 @@ questions =  [
   
 //Economic Regulation - Planned
 {"id": 0, "question": "Government price controls are essential to prevent exploitation.", "effects": {"y": -5, "ay": 5}},
-{"id": 1, "question": "The state should guarantee access to basic goods, regardless of market demand.", "effects": {"y": -5, "ay": 5}},
+{"id": 1, "question": "The state should guarantee access to basic goods.", "effects": {"y": -5, "ay": 5}},
 {"id": 2, "question": "Public utilities should not be left to the free market.", "effects": {"y": -5, "ay": 5}},
-{"id": 3, "question": "Unregulated markets inevitably lead to inequality and corruption.", "effects": {"y": -5, "ay": 5}},
-{"id": 4, "question": "Housing should be a right, and the government should control rents.", "effects": {"y": -5, "ay": 5}},
-{"id": 5, "question": "Essential goods and services should be subsidized or provided freely by the state.", "effects": {"y": -5, "ay": 5}},
-{"id": 6, "question": "Some economic sectors function better with government oversight.", "effects": {"y": -5, "ay": 5}},
+{"id": 3, "question": "Unregulated markets lead to inequality and corruption.", "effects": {"y": -5, "ay": 5}},
+{"id": 4, "question": "Housing should be a basic human right.", "effects": {"y": -5, "ay": 5}},
+{"id": 5, "question": "Essential goods and services should be provided by the state.", "effects": {"y": -5, "ay": 5}},
+{"id": 6, "question": "Some economic sectors function best with government oversight.", "effects": {"y": -5, "ay": 5}},
 {"id": 7, "question": "The government has a role in preventing major market failures.", "effects": {"y": -5, "ay": 5}},
-{"id": 8, "question": "Consumer protections often require state enforcement.", "effects": {"y": -5, "ay": 5}},
+{"id": 8, "question": "The state needs to enforce consumer protections.", "effects": {"y": -5, "ay": 5}},
 {"id": 9, "question": "Unchecked markets may not address long-term societal needs.", "effects": {"y": -5, "ay": 5}},
 {"id": 10, "question": "Market outcomes don't always reflect the public interest.", "effects": {"y": -5, "ay": 5}},
 
