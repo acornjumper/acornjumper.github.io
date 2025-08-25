@@ -59,9 +59,9 @@ p.question {
     min-width: 500pt;
     min-height: 144pt;
     background-color: #EF9D21;
-    padding: 16pt;
+    padding: 10pt;
     border-radius: 16pt;
-    font-size: 36pt;
+    font-size: 24pt;
     display: flex;
     justify-content: center;
     align-items: center;
