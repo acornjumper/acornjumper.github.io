@@ -21,7 +21,7 @@ questions =  [
 {"id": 15, "question": "Regulatory agencies are often corrupted by the industries they oversee.", "effects": {"y": 5, "ay": -5}},
 {"id": 16, "question": "A regulated economy is more unfair for the people, when compared to a laissez-faire economy.", "effects": {"y": 5, "ay": -5}},
 {"id": 17, "question": "A free economy is the best tool for establishing wages and the price of labour.", "effects": {"y": 5, "ay": -5}},
-{"id": 18, "question": "Large regulations are desired by interest groups, as regulation can decrease competition.", "effects": {"y": 5, "ay": -5}},
+{"id": 18, "question": "Increased regulations are often desired by large companies within the regulated area, as regulation can decrease competition.", "effects": {"y": 5, "ay": -5}},
 {"id": 19, "question": "Taxation harms economic progress, no matter who the burden initially falls on.", "effects": {"y": 5, "ay": -5}},
 {"id": 20, "question": "Intellectual property acts as a government-enforced monopoly. ", "effects": {"y": 5, "ay": -5}},
   
