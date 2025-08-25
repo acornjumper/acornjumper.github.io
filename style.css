@@ -140,13 +140,13 @@ img {
     border: none;
     border-radius: 6pt;
     color: white;
-    padding: 6pt;
+    padding: 8pt;
     width: 50%;
     min-width: 500pt;
     text-align: center;
     text-decoration: none;
     display: block;
-    font-size: 18pt;
+    font-size: 20pt;
     margin: -2px auto;
     cursor: pointer;
 }
