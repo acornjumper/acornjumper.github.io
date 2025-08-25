@@ -140,13 +140,13 @@ img {
     border: none;
     border-radius: 6pt;
     color: white;
-    padding: 8pt;
+    padding: 4pt;
     width: 50%;
     min-width: 500pt;
     text-align: center;
     text-decoration: none;
     display: block;
-    font-size: 18pt;
+    font-size: 14pt;
     margin: -2px auto;
     cursor: pointer;
 }
@@ -169,15 +169,15 @@ img {
     background-color: #333;
     font-family: 'Montserrat', sans-serif;
     border: none;
-    border-radius: 8pt;
+    border-radius: 4pt;
     color: white;
-    padding: 8pt;
+    padding: 4pt;
     width: 10%;
     min-width: 100pt;
     text-align: center;
     text-decoration: none;
     display: block;
-    font-size: 18pt;
+    font-size: 12pt;
     margin: -2px auto;
     cursor: pointer;
 }
