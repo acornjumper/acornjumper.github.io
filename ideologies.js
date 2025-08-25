@@ -1380,9 +1380,9 @@ ideologies = [
     },
 	{
         "name": "Anarcho-Individualism",
-	    	"link": "https://en.wikipedia.org/wiki/Anarcho-capitalism",
-		"desc": "Anarcho-capitalism is a political ideology that advocates the elimination of the states in favor of private property and free markets. They believe any action should be legal as long as no individual is a victim of agression.",
-		"next": "Hoppeanism, Pink Capitalism, Minarchism, Anarcho-Individualism",
+	    	"link": "https://en.wikipedia.org/wiki/Anarcho-individualism",
+		"desc": "Anarcho-individualism is a form of anarchy that emphasizes the individual and their will over external determinants such as groups, society, traditions, and ideological systems.",
+		"next": "Hoppeanism, Pink Capitalism, Minarchism, Anarcho-Capitalism",
         "stats": {
 	  "econ": 5,
 	  "govt": -10,
