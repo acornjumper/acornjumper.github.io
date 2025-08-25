@@ -45,7 +45,7 @@ questions =  [
 {"id": 35, "question": "The means of production should belong to the workers.", "effects": {"x": -5, "ax": -5}},
 {"id": 36, "question": "Roads and transportation should be publicly owned.", "effects": {"x": -5, "ax": -5}},
 {"id": 37, "question": "Economic inequality is still a very serious problem.", "effects": {"x": -5, "ax": -5}},
-{"id": 38, "question": "Paying workers with food is preferable than paying with money.", "effects": {"x": -5, "ax": -5}},
+{"id": 38, "question": "Paying workers with food is preferable to paying with money.", "effects": {"x": -5, "ax": -5}},
 {"id": 39, "question": "Economic systems should prioritize meeting everyone's basic needs.", "effects": {"x": -5, "ax": -5}},
 {"id": 40, "question": "Redistributing wealth can correct historical and structural inequalities.", "effects": {"x": -5, "ax": -5}},
 {"id": 41, "question": "Public ownership of essential industries can reduce exploitation.", "effects": {"x": -5, "ax": -5}},
@@ -63,7 +63,7 @@ questions =  [
 {"id": 51, "question": "Non-democratic leadership is compatible with limited government and individual liberty.", "effects": {"bx": -5, "by": -5}},
 
 //Governmental System - Democracy
-{"id": 52, "question": "A flawed democracy is preferable to a stable autocracy.", "effects": {"y": -5, "bx": 5}},
+{"id": 52, "question": "Democracies gain legitamite power through the consent of the governed.", "effects": {"y": -5, "bx": 5}},
 {"id": 53, "question": "A government should be chosen by the will of the people.", "effects": {"y": -5, "bx": 5}},
 {"id": 54, "question": "Free and fair elections are the foundation of legitimate government.", "effects": {"y": -5, "bx": 5}},
 {"id": 55, "question": "Leaders must be removable through regular, competitive elections.", "effects": {"y": -5, "bx": 5}},
@@ -89,14 +89,14 @@ questions =  [
 {"id": 71, "question": "Voluntary agreements between individuals should not be restricted by law.", "effects": {"y": -5, "by": -5}},
 {"id": 72, "question": "All authority should be questioned.", "effects": {"y": -5, "by": -5}},
 {"id": 73, "question": "The state is inherently coercive, therefore its existence is a violation of liberty and rights.", "effects": {"y": -5, "by": -5}},
-{"id": 74, "question": "Any drug should be legal as long as other people don't have to take the consequences.", "effects": {"y": -5, "by": -5}},
+{"id": 74, "question": "All governments are illegitamite.", "effects": {"y": -5, "by": -5}},
 {"id": 75, "question": "Tyranny by majority is a possible consequence of democracy within a large state.", "effects": {"y": -5, "by": -5}},
 {"id": 76, "question": "Governments should not intervene with people's daily lives.", "effects": {"y": -5, "by": -5}},
 {"id": 77, "question": "The government should not have a monopoloy on force.", "effects": {"y": -5, "by": -5}},
 {"id": 78, "question": "Victimless crimes should not be considered 'crimes'.", "effects": {"y": -5, "by": -5}},
 {"id": 79, "question": "Protection of property rights should be the main focus of the government.", "effects": {"y": -5, "by": -5}},
 {"id": 80, "question": "The power of the government should be drastically reduced.", "effects": {"y": -5, "by": -5}},
-{"id": 81, "question": "The concept of intellectual property violates property rights, and it should be abolished.", "effects": {"y": -5, "by": -5}},
+{"id": 81, "question": "Intellectual property should be abolished.", "effects": {"y": -5, "by": -5}},
 
 //Diplomatic Applicability - Universal
 {"id": 82, "question": "My political values should be spread as much as possible.", "effects": {"cx": -5}},
@@ -162,7 +162,7 @@ questions =  [
 {"id": 128, "question": "Rapid change often leads to the worsening of people's lives.", "effects": {"dy": 5}},
 {"id": 129, "question": "Reforms should happen gradually and slowly.", "effects": {"dy": 5}},
 {"id": 130, "question": "All reforms should happen without violence if possible.", "effects": {"dy": 5}},
-{"id": 131, "question": "It's sometimes moral to crush a revolution or protest by force.", "effects": {"dy": 5}},
+{"id": 131, "question": "It is sometimes moral to crush a revolution or protest by force.", "effects": {"dy": 5}},
 {"id": 132, "question": "Order and continuity should be prioritized over rapid change.", "effects": {"dy": 5}},
 {"id": 133, "question": "Traditions and institutions should only be reformed when absolutely necessary.", "effects": {"dy": 5}},
 
@@ -227,7 +227,7 @@ questions =  [
  //Law Focus - Rehabilitive
 {"id": 177, "question": "Everybody deserves a second chance.", "effects": {"fy": -5}},
 {"id": 178, "question": "The goal of justice should be reintegration, not revenge.", "effects": {"fy": -5}},
-{"id": 179, "question": "Even serious offenders can often change their behavior for the better.", "effects": {"fy": -5}},
+{"id": 179, "question": "Even serious offenders can change their behavior for the better.", "effects": {"fy": -5}},
 {"id": 180, "question": "A criminal justice system should treat the causes of crime, not just the symptoms.", "effects": {"fy": -5}},
 {"id": 181, "question": "Prisons should offer therapy and counseling to offenders.", "effects": {"fy": -5}},
  
@@ -235,7 +235,7 @@ questions =  [
 {"id": 182, "question": "A system of equal outcomes should be established.", "effects": {"gx": -5}},
 {"id": 183, "question": "People should be treated equally regardless of their groups and characteristics.", "effects": {"gx": -5}},
 {"id": 184, "question": "Policies should be designed to reduce social inequality.", "effects": {"gx": -5}},
-{"id": 185, "question": "I support legislation supporting the disparate impact standard.", "effects": {"gx": -5}},
+{"id": 185, "question": "I support the disparate impact standard.", "effects": {"gx": -5}},
 {"id": 186, "question": "I support DEI.", "effects": {"gx": -5}},
 {"id": 187, "question": "If a group's representation is disproportionate to their population, it implies discrimination.", "effects": {"gx": -5}},
 
@@ -245,6 +245,7 @@ questions =  [
 {"id": 191, "question": "Social ranking is an unavoidable outcome of praxeology, since individuals value some contributions more than others.", "effects": {"gx": 5}},
 {"id": 192, "question": "Any well-functioning society requries a hierarchy.", "effects": {"gx": -5}},
 {"id": 193, "question": "Human inequality in skill and knowledge guarantees unequal influence, which in practice creates hierarchy.", "effects": {"gx": 5}},
+{"id": 193, "question": "Unequal outcomes do not imply discrimination.", "effects": {"gx": 5}},
 
 //Cultural Assimilation - Monocultural
 {"id": 194, "question": "If we accept migrants into our borders, the migrants should be expected to assimilate into our culture.", "effects": {"gy": 5}},
@@ -271,7 +272,7 @@ questions =  [
 {"id": 210, "question": "Large reforms should be phased in gradually to prevent chaos.", "effects": {"hy": 5}},
 //Procedural Transition - Direct
 {"id": 211, "question": "My ideology should be established as quick as possible.", "effects": {"hy": -5}},
-{"id": 212, "question": "My political ideals can be acheived by fully replacing the current system within a 10 year period.", "effects": {"hy": -5}},
+{"id": 212, "question": "My political ideals can only be acheived by fully replacing the current system.", "effects": {"hy": -5}},
   
 //Political Extremism - Radical
 {"id": 213, "question": "My ideology is sometimes considered 'extreme'.", "effects": {"ix": 5}},
@@ -281,7 +282,6 @@ questions =  [
 
 //Political Engagement - Apolitical
 {"id": 217, "question": "Politics is boring to me.", "effects": {"iy": -5}},
-{"id": 218, "question": "Nearly all politicians are evil and problematic, no matter what their political ideals are.", "effects": {"iy": -5}},
 {"id": 219, "question": "Politics should be avoided in daily life.", "effects": {"iy": -5}},
 {"id": 220, "question": "I rarely, if ever, discuss politics with others.", "effects": {"iy": -5}},
 
@@ -293,20 +293,16 @@ questions =  [
  
 //Collectivization
 {"id": 225, "question": "Most things can only be accomplished through a group.", "effects": {"ja": -5}},
-{"id": 226, "question": "If the current career system is being used, a person's personal and work life should stay seperate.", "effects": {"ja": 5}},
-{"id": 227, "question": "The needs of the community are more important than the desires of the individual.", "effects": {"ja": -5}},
 {"id": 228, "question": "Being self-sufficient (as a person) is a positive trait.", "effects": {"ja": 5}},
+{"id": 227, "question": "The needs of the community are more important than the desires of the individual.", "effects": {"ja": -5}},
 {"id": 229, "question": "No individual can truly succeed without the support of their society.", "effects": {"ja": -5}},
 {"id": 230, "question": "Individual rights should take priority over collective responsibilities.", "effects": {"ja": 5}},
 {"id": 231, "question": "Personal ambition is the driving force of human progress.", "effects": {"ja": 5}},
-{"id": 232, "question": "People should be free to live howe they choose, regardless of what society prefers.", "effects": {"ja": 5}},
 
 //Revolution
 {"id": 233, "question": "Changing the status quo using violent methods is mostly unhelpful.", "effects": {"jb": 5}},
 {"id": 234, "question": "Revolution often causes more harm than good.", "effects": {"jb": 5}},
 {"id": 235, "question": "Pacifism is generally unrealistic when protesting a government.", "effects": {"jb": -5}},
-{"id": 236, "question": "Revolution often causes more harm than good.", "effects": {"jb": 5}},
-{"id": 237, "question": "Revolution often causes more harm than good.", "effects": {"jb": 5}},
 {"id": 238, "question": "Violent resistance is justified when the government oppresses its people.", "effects": {"jb": -5}},
 
 //Idealism
