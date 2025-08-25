@@ -49,8 +49,8 @@ a:hover{
     color: #22DDDD;
 }
 p.value-description2 {
-    text-indent: -16pt;
-    margin-left: 40pt;
+    text-indent: 16pt;
+    margin-left: 20pt;
 }
 p.question {
     margin: 16pt auto;
